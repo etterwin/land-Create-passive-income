@@ -27,7 +27,7 @@ $(document).ready(function() {
         $('title').text('Create passive income');
         $('h1.caption').text('Who said that it is impossible to generate passive income 7 days a week without your participation?');
         $('h2.form-caption').text('Subscribe before it\'s too late. All the secrets of generating passive income are here.');
-        $('span.asterisk-text').text('indicates required');
+        $('span.asterisk-text').text('required');
         $('span.email-text').text('Email Address');
 
         //attribute
