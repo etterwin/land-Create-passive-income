@@ -8,10 +8,10 @@ $(document).ready(function() {
         $('html').addClass('font-th');
 
         //text
-        $('title').text('สร้างรายได้ passive');
-        $('h1.caption').text('Who said that it is impossible to generate passive income 7 days a week without your participation?');
-        $('h2.form-caption').text('สมัครสมาชิกก่อนที่จะสายเกินไป ความลับทั้งหมดในการสร้างรายได้ passive ที่นี่');
-        $('span.asterisk-text').text('ระบุว่าจำเป็น');
+        $('title').text('สร้าง passive income');
+        $('h1.caption').text('ใครบอกว่ามันเป็นไปไม่ได้ที่จะสร้างรายได้แบบ passive income 7วันต่อสัปดาห์ โดยที่ไม่มีส่วนร่วมของคุณ');
+        $('h2.form-caption').text('สมัครสมาชิกก่อนที่จะสายเกินไป ความลับทั้งหมดของการสร้างรายได้แบบ passive income อยู่ที่นี่');
+        $('span.asterisk-text').text('กรอกข้อมูลที่จำเป็น');
         $('span.email-text').text('ที่อยู่อีเมล');
 
         //attribute
@@ -26,7 +26,7 @@ $(document).ready(function() {
         //text
         $('title').text('Create passive income');
         $('h1.caption').text('Who said that it is impossible to generate passive income 7 days a week without your participation?');
-        $('h2.form-caption').text('Subscribe before it\'s too late. All the secrets of generating passive income here.');
+        $('h2.form-caption').text('Subscribe before it\'s too late. All the secrets of generating passive income are here.');
         $('span.asterisk-text').text('indicates required');
         $('span.email-text').text('Email Address');
 
